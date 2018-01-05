@@ -697,7 +697,7 @@ Returns:
 ## report_bug
 
 ```text
-Report a bug to slack
+Report a bug to Discord
 
 Usage:
     report_bug (<message> | --message=<message>)
